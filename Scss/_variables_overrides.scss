@@ -1,0 +1,12 @@
+// Quickly modify global styling by enabling or disabling optional features.
+
+$blue: #3A4257 !default;
+$cameo: #F0DDBC !default;
+
+$primary: $blue;
+$secondary: $cameo;
+$enable-rounded: false;
+$enable-shadows: true;
+
+// Quick fix for Bootstrap v5.1.1 issue
+$zindex-offcanvas: 1051;
