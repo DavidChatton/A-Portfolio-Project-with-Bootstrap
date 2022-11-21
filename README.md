@@ -5,7 +5,7 @@ This project come from the course of Openclassroom
 
 ### Project
 
- [The Project in french](https://openclassrooms.com/fr/courses/7542506-creez-des-sites-web-responsives-avec-bootstrap-5/exercises/)
+ [The Project in french](https://openclassrooms.com/fr/courses/7542506-creez-des-sites-web-responsives-avec-bootstrap-5)
 
 ## Objectives
 
